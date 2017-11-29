@@ -12,3 +12,7 @@ segmenting.m: function that cuts time-series into segments for windowed
 SLspectrum.m: Computing Scargle-Lomb spectrum
 tauest.m:  tau estimation;
 TAUrednoise.m: generate redonoise series given tau.
+
+This work is partly inspired by the contribution by Kristin B. Olafsdottir, Michael Schulz,
+and Manfred Mudelsee. 
+Their Fortran version code redfit-x_byOlafsdottir_et_al.f90 is also included here.
